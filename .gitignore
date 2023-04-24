@@ -129,7 +129,8 @@ dmypy.json
 .pyre/
 
 # Data files
-data/
+data/*.xlsx
+data/*.csv
 
 # PyCharm stuff
 .idea/
